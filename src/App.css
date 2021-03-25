@@ -1,0 +1,20 @@
+:root {
+  font-size: calc(100vw / 110);
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  overflow: auto;
+  background-repeat: repeat;
+  background-position: fixed;
+}
+
+.App-inner {
+  max-width: 1440px;
+  padding: 1.179rem 8.125rem 0 7.938rem;
+  object-fit: contain;
+  background-color: var(--black-60);
+  color: white;
+}

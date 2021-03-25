@@ -1,0 +1,87 @@
+.Headline {
+  width: 38.25rem;
+  height: 17rem;
+  margin: 10.125rem 10.688rem 2.938rem 0;
+  font-family: HelveticaNeue;
+  font-size: 5.25rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: -2.2px;
+  color: white;
+  display: inline-block;
+}
+
+.Subhead {
+  width: 22.5rem;
+  height: 14.188rem;
+  margin: 11.563rem 2.5rem 4.313rem 10.688rem;
+  font-family: HelveticaNeue;
+  font-size: 0.875rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: normal;
+  color: white;
+  display: inline-block;
+}
+
+.Bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 73.75rem;
+  height: 11.188rem;
+  margin: 2.938rem 0 0 0.188rem;
+  padding: 4.625rem 8.5rem 4.563rem 4.813rem;
+  background-color: white;
+  align-items: center;
+}
+
+.cta {
+  width: 30.188rem;
+  height: 2rem;
+  margin: 0 13.75rem 0 0;
+  font-family: HelveticaNeue;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.63px;
+  color: black;
+  display: inline-block;
+  text-align: left;
+}
+
+.LETS-TALK {
+  width: 16.454rem;
+  height: 1.25rem;
+  margin: auto auto;
+  font-family: HelveticaNeue;
+  font-size: 0.688rem;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.82;
+  letter-spacing: 1px;
+  color: black;
+  display: inline-block;
+}
+
+.Display {
+  width: 50%;
+  align-content: center;
+  display: inline;
+}
+
+.arrow {
+  position: relative;
+  top: 20%;
+  width: 1.12rem;
+  height: 0.75rem;
+  color: #ffc001;
+  font-size: 2em;
+}
